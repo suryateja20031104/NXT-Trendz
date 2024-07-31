@@ -1,4 +1,4 @@
-In this project, I build a Nxt Trendz - 
+In this project, I build a Nxt Trendz 
 
 Things to Keep in Mind
 All components you implement should go in the src/components directory.
